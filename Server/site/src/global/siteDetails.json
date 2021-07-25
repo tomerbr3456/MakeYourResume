@@ -1,0 +1,64 @@
+{
+  "firstName": "Tomer",
+  "lastName": "Braunstain",
+  "jobTitle": "Java Developer",
+  "gitLink": "https://tomerbr3456.github.io/tomerWeb/",
+  "linkedin": "https://tomerbr3456.github.io/tomerWeb/",
+  "yourPhoto": {},
+  "siteBackGroundImg": {},
+  "siteSvg": {},
+  "aboutMe": "Full stack developer, with 3 years of experience at Unit 8200 as RF technician. Autodidactic with excellent interpersonal relations and ability to work under high pressure. Highly motivated to be apart of a group and use my abilities as a programmer to imporve the team.",
+  "resumeLink": "https://tomerbr3456.github.io/tomerWeb/",
+  "skills": [
+    {
+      "name": "routing"
+    },
+    {
+      "name": "nodejs"
+    },
+    {
+      "name": "sql"
+    },
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "html"
+    },
+    {
+      "name": "css"
+    },
+    {
+      "name": "haxball"
+    },
+    {
+      "name": "networking"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Fields",
+      "link": "https://tomerbr3456.github.io/tomerWeb/",
+      "description": "such a good project",
+      "projectPic": {}
+    },
+    {
+      "name": "Stop",
+      "age": "",
+      "description": "such a good project",
+      "picture": "",
+      "link": "https://tomerbr3456.github.io/tomerWeb/",
+      "projectPic": {}
+    },
+    {
+      "name": "IpTracker",
+      "age": "",
+      "description": "such a good project",
+      "picture": "",
+      "link": "https://tomerbr3456.github.io/tomerWeb/",
+      "projectPic": {}
+    }
+  ],
+  "siteName": "Tomer Site",
+  "description": "If You Came Here Its a Sign That You Made The Right Choice"
+}
